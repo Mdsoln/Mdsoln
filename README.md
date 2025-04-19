@@ -13,6 +13,12 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 
 ---
 
+### 📊 Contribution Graph
+
+[![Muddy's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mdsoln&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -49,8 +55,10 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 ---
 
 ### ⚡ Fun Fact
-In the world of code, my heart beats for the backend —
-Where logic flows, and data knows no end.
-From restful dreams to queries deep,
-It's server-side magic that I love to keep.
 
+> In the world of code, my heart beats for the backend —  
+> Where logic flows, and data knows no end.  
+> From restful dreams to queries deep,  
+> It's server-side magic that I love to keep.  
+
+---
