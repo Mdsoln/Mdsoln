@@ -1,5 +1,5 @@
 # Hi, I'm Muddy 👋
-![Muddy's GitHub Banner](https://raw.githubusercontent.com/your-username/your-username/main/A_digital_graphic_banner_showcases_Muddy’s_name_an.png)
+![Muddy's GitHub Banner](https://github.com/Mdsoln/Mdsoln/blob/main/ChatGPT%20Image%20Apr%2019%2C%202025%2C%2010_01_15%20PM.png)
 
 ## Software Developer | Backend Enthusiast
 
