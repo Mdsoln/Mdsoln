@@ -1,5 +1,5 @@
 # Hi, I'm Muddy 👋
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/A_digital_graphic_banner_showcases_Muddy’s_name_an.png" alt="Muddy's GitHub Banner" style="width:100%;"/>
+![Muddy's GitHub Banner](https://raw.githubusercontent.com/your-username/your-username/main/A_digital_graphic_banner_showcases_Muddy’s_name_an.png)
 
 ## Software Developer | Backend Enthusiast
 
