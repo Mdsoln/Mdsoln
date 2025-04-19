@@ -12,10 +12,9 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoln&layout=compact&theme=github_dark)
 
 ---
-
 ### 📊 Contribution Graph
 
-[![Muddy's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mdsoln&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Muddy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mdsoln&theme=github-dark&hide_border=true)
 
 ---
 
