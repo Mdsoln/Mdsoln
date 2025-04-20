@@ -32,7 +32,6 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" />
   <img src="https://img.shields.io/badge/Snyk-Security-blueviolet?logo=snyk&logoColor=white&style=flat-square" />
 </p>
 
