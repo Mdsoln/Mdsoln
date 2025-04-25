@@ -32,6 +32,7 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Snyk-Security-blueviolet?logo=snyk&logoColor=white&style=flat-square" />
 </p>
 
@@ -41,6 +42,7 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 - Advanced Backend Architecture
 - Docker & Kafka Integration
 - Secure Code with Snyk
+- Cloud-Native Development with Quarkus
 - Fullstack project building with Flutter + Spring Boot
 
 ---
