@@ -9,11 +9,10 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 
 ### 🔥 GitHub Stats
 
-![Muddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsoln&show_icons=true&theme=github_dark)  
+![Muddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsoln&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoln&layout=compact&theme=github_dark)
 
 ---
-
 ### 📊 Contribution Graph
 
 ![Muddy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mdsoln&theme=github-dark&hide_border=true)
@@ -40,7 +39,6 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 ---
 
 ### 🌱 Currently Learning
-
 - 🚀 **Advanced Backend Architecture**
 - 🐳 **Docker & Kafka Integration**
 - 🛡️ **Secure Code Practices with Snyk**
@@ -51,9 +49,9 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 
 ### 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/Email-muddyfakih98@gmail.com-blue?style=flat-square&logo=gmail)](mailto:muddyfakih98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muddy%20Ramadhan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muddy-ramadhan-968970270/)
-[![Slack & WhatsApp](https://img.shields.io/badge/Slack%20&%20WhatsApp-Let's%20Connect-success?style=flat-square&logo=whatsapp)](mailto:muddyfakih98@gmail.com)
+- 📧 Email: [muddyfakih98@gmail.com](mailto:muddyfakih98@gmail.com)
+- 💼 LinkedIn: [Muddy Ramadhan](https://www.linkedin.com/in/muddy-ramadhan-968970270/)
+- 💬 Slack & WhatsApp: Let’s connect! (Email me for invites)
 
 ---
 
