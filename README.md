@@ -38,12 +38,13 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 
 ---
 
-### 🌱 Currently Learning
-- 🚀 **Advanced Backend Architecture**
-- 🐳 **Docker & Kafka Integration**
-- 🛡️ **Secure Code Practices with Snyk**
-- ☁️ **Cloud-Native Development using Quarkus**
-- 🖥️ **Fullstack Project Building with Flutter + Spring Boot**
+### Currently Learning
+- 🏗️ **Microservices Architecture Patterns**
+- 🔄 **CI/CD with Jenkins & GitHub Actions**
+- 🔍 **Automated Code Reviews (SonarQube, Qodana, Snyk)**
+- 🐳 **Securing Docker Images & Kubernetes Deployments**
+- 📱 **Stabilizing Mobile Development Skills (Flutter Clean Architecture)**
+- ⚙️ **Advanced DevOps & Deployment Automation**
 
 ---
 
