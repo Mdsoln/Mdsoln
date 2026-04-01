@@ -40,18 +40,18 @@ I'm a passionate developer currently exploring advanced backend concepts and bui
 ---
 
 ### Currently Learning
-- 🏗️ **Microservices Architecture Patterns**
-- 🔄 **CI/CD with Jenkins & GitHub Actions**
-- 🔍 **Automated Code Reviews (SonarQube, Qodana, Snyk)**
-- 🐳 **Securing Docker Images & Kubernetes Deployments**
-- 📱 **Stabilizing Mobile Development Skills (Flutter Clean Architecture)**
-- ⚙️ **Advanced DevOps & Deployment Automation**
+-  **Microservices Architecture Patterns**
+-  **CI/CD with Jenkins & GitHub Actions**
+-  **Automated Code Reviews (SonarQube, Qodana, Snyk)**
+-  **Securing Docker Images & Kubernetes Deployments**
+-  **Stabilizing Mobile Development Skills (Flutter Clean Architecture)**
+-  **Advanced DevOps & Deployment Automation**
 
 ---
 
 ### 📫 How to reach me
 
-- 📧 Email: [muddyfakih98@gmail.com](mailto:muddyfakih98@gmail.com)
+- 📧 Email: [muddyfakih908@gmail.com](mailto:muddyfakih908@gmail.com)
 - 💼 LinkedIn: [Muddy Ramadhan](https://www.linkedin.com/in/muddy-ramadhan-968970270/)
 - 💬 Slack & WhatsApp: Let’s connect! (Email me for invites)
 
